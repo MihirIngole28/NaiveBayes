@@ -2,7 +2,7 @@
 
 This project demonstrates the implementation and working on the Naive Bayes algorithm on: -
 
-Note: Please access MAIN.ipynb to see the implementation.
+**Note**: Please access **MAIN.ipynb** to see the implementation.
 
 1). Iris Dataset.
 
